@@ -12,8 +12,8 @@ Marp themes repository, created to as a simple way to create re-usable themes ac
 
 List of themes. 
 
-### ![](img/my-theme.png) First theme - simple modification to default. 
-  [![Style: Notes1](img/my-theme.png)](examples/example-my-theme.pdf)
+### ![](./img/my-theme.png) First theme - simple modification to default. 
+  [![Style: Notes1](./img/examples-my-theme.png)](./examples/example-my-theme.pdf)
 
 
 <br>
