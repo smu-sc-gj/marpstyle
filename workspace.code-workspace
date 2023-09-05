@@ -6,8 +6,7 @@
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"https://cunhapaulo.github.io/style/heidegger.css",
-			"https://github.com/smu-sc-gj/marpstyle/blob/main/style/notes1.css"
+			"./style/notes1.css"
 		]
 	}
 }
