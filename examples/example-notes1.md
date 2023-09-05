@@ -20,6 +20,6 @@ theme       : notes1
 ## Sub heading ##
 
 ---
-# Tite #
+# Title #
 
 ---

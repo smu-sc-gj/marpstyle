@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"https://smu-sc-gj.github.io/style/notes1.css"
+			"https://github.com/smu-sc-gj/marpstyle/style/notes1.css"
 		]
 	}
 }
