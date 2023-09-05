@@ -1,0 +1,9 @@
+/*! @theme notes
+    @author Glenn Jenkins
+*/
+
+@import 'default';
+
+h1 {
+  color: red;
+}
