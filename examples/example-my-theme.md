@@ -15,7 +15,7 @@ marp: true
 
 # Title #
 
-![CST Logo image.](../img/cst-logo-black.png)
+![CST Logo image. w:600 ](../img/cst-logo-black.png)
 
 
 ## Sub heading ##
