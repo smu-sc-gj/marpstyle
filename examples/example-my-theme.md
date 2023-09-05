@@ -3,7 +3,7 @@ title: Notes Slides, example / test pages.
 author: Glenn Jenkins
 description: Example come testing. 
 keywords: Marp, Slides, Themes.
-theme: notes
+theme: my-theme
 marp: true
 ---
 <!--
