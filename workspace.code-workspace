@@ -7,7 +7,6 @@
 	"settings": {
 		"markdown.marp.themes": [
 			"./style/my-theme.css",
-			"https://github.com/smu-sc-gj/marpstyle/blob/main/style/my-theme.css",
 			"https://cunhapaulo.github.io/style/kant.css"
 		]
 	}

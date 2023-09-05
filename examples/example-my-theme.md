@@ -15,7 +15,8 @@ marp: true
 
 # Title #
 
-<!-- needs test image -->
+![CST Logo image.](../img/cst-logo-black.png)
+
 
 ## Sub heading ##
 

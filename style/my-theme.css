@@ -5,6 +5,18 @@
 
 @import 'default';
 
-h1 {
-  color: red;
+section.lead h1,
+section.lead h2,
+section.lead h3,
+section.lead h4 {
+  /* color: red; */
+  text-align: center;
+}
+
+/* This is slightly dodgy, it'll only be required as a work 
+around if the developers of Marp don't add alt-text to images
+which are backgrounds */
+section.lead img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
 }
