@@ -16,9 +16,9 @@ section.lead {
 /* This is slightly dodgy, it'll only be required as a work 
 around if the developers of Marp don't add alt-text to images
 which are backgrounds */
-/*
-section.lead img[alt~="center"] {
+
+section.lead img[alt~="_center"] {
   display: block;
   margin: 0 auto;
 }
-*/
+
